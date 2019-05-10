@@ -1,13 +1,10 @@
 <keymap version="1" name="Default copy" parent="$default">
   <action id="Console.TableResult.NextPage" />
-  <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
-  </action>
   <action id="MoveTabDown">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl alt numpad2" />
   </action>
   <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
   </action>
   <action id="NextOccurence" />
 </keymap>
