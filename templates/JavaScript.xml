@@ -6,7 +6,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="for" value="for(let $INDEX$ = 0; $INDEX$ &lt; $LIMIT$.length; $INDEX$++) {&#10;  $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="for" value="for(let $INDEX$ = 0; $INDEX$ &lt; $LIMIT$.length; $INDEX$++) {&#10;  $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="INDEX" expression="" defaultValue="'i'" alwaysStopAt="true" />
     <variable name="LIMIT" expression="" defaultValue="'list'" alwaysStopAt="true" />
     <context>
