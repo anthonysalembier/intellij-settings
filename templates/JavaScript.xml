@@ -14,7 +14,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="if" value="if ($PARAM$) {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="if" value="if ($PARAM$) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
