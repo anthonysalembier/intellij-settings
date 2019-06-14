@@ -16,5 +16,6 @@
     <mask>*.service.spec.ts</mask>
     <mask>*.scss</mask>
     <mask>*.spec.ts</mask>
+    <mask>*.model.ts</mask>
   </component>
 </application>
