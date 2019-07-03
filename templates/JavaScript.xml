@@ -6,14 +6,6 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="for" value="for (let $INDEX$ = 0; $INDEX$ &lt; $LIMIT$.length; $INDEX$++) {&#10;  $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
-    <variable name="INDEX" expression="" defaultValue="'i'" alwaysStopAt="true" />
-    <variable name="LIMIT" expression="" defaultValue="'list'" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
   <template name="if" value="if ($PARAM$) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
