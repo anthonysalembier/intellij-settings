@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\src\main\resources\application-default.properties [np]'" />
-    <option name="defaultScopeName" value="File '...\src\main\resources\application-default.properties [np]'" />
-    <option name="SEARCH_SCOPE" value="File '...\src\main\resources\application-default.properties [np]'" />
+    <option name="customScope" value="Directory '...\src [np]'" />
+    <option name="defaultScopeName" value="Directory '...\src [np]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src [np]'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
