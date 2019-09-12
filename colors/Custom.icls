@@ -3,10 +3,26 @@
     <property name="created">2019-08-09T11:19:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.4.0.0</property>
-    <property name="modified">2019-09-12T15:53:38</property>
+    <property name="modified">2019-09-12T17:52:28</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="2c6e74" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="5d6bbf" />
+      </value>
+    </option>
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="5d6bbf" />
+      </value>
+    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="5d6bbf" />
