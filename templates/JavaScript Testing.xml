@@ -19,7 +19,7 @@
   <template name="bf" value="before(() =&gt; {&#10;  $END$&#10;});" description="Inserts before() block" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="exp" value="expect($param1$).$param2$;&#10;$END$" description="expect()" toReformat="false" toShortenFQNames="true">
+  <template name="exp" value="expect($param1$).$param2$;$END$" description="expect()" toReformat="false" toShortenFQNames="true">
     <variable name="param1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="param2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
